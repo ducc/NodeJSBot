@@ -1,0 +1,8 @@
+{
+  "name": "nodejsbot",
+  "version": "0.0.1",
+  "dependencies": {
+    "discordie": "latest",
+    "node-yaml-config": "0.0.4"
+  }
+}
