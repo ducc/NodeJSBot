@@ -20,6 +20,6 @@ client.Dispatcher.on("MESSAGE_CREATE", function(e) {
         e.message.content);
     console.log(msg);
     if (e.message.content == "(╯°□°）╯︵ ┻━┻") {
-        e.message.channel.sendMessage("FUQQ >!\"<\"EL\"RJ\"2qf2");
+        e.message.channel.sendMessage("┬─┬ ノ( ゜-゜ノ)");
     }
 });
